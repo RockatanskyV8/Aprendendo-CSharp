@@ -8,8 +8,8 @@
  */
 using System;
 
-using System.Text;
-using System.Globalization;
+using System.Text;//necessário para o STRINGBUILDER
+using System.Globalization;//necessário para o CultureInfo
 
 namespace CSDrBn_2
 {
