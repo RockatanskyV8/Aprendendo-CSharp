@@ -1,0 +1,5 @@
+C:\Users\Lucas\Documents\SharpDevelop Projects\CSDrBn\CSDrBn_13\bin\Debug\CSDrBn_13.exe
+C:\Users\Lucas\Documents\SharpDevelop Projects\CSDrBn\CSDrBn_13\bin\Debug\CSDrBn_13.pdb
+C:\Users\Lucas\Documents\SharpDevelop Projects\CSDrBn\CSDrBn_13\obj\Debug\CSDrBn_13.exe
+C:\Users\Lucas\Documents\SharpDevelop Projects\CSDrBn\CSDrBn_13\obj\Debug\CSDrBn_13.pdb
+C:\Users\Lucas\Documents\SharpDevelop Projects\CSDrBn\CSDrBn_13\obj\Debug\CSDrBn_13.csprojResolveAssemblyReference.cache
